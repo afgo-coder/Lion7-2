@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe.config

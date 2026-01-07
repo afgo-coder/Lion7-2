@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe.config

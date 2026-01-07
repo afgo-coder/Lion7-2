@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe.config

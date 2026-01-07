@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\bin\Debug\콘솔코딩연습.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\bin\Debug\콘솔코딩연습.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\bin\Debug\콘솔코딩연습.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\obj\Debug\콘솔코딩연습.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\obj\Debug\콘솔코딩연습.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\obj\Debug\콘솔코딩연습.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\obj\Debug\콘솔코딩연습.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\콘솔코딩연습\콘솔코딩연습\obj\Debug\콘솔코딩연습.exe.config
