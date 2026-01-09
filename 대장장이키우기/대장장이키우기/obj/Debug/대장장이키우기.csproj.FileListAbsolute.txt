@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\bin\Debug\대장장이키우기.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\bin\Debug\대장장이키우기.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\bin\Debug\대장장이키우기.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.exe.config

@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\bin\Debug\0108 복습게임만들기 AI 도움받은버전.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\bin\Debug\0108 복습게임만들기 AI 도움받은버전.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\bin\Debug\0108 복습게임만들기 AI 도움받은버전.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\obj\Debug\0108 복습게임만들기 AI 도움받은버전.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\obj\Debug\0108 복습게임만들기 AI 도움받은버전.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\obj\Debug\0108 복습게임만들기 AI 도움받은버전.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\obj\Debug\0108 복습게임만들기 AI 도움받은버전.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\0108 복습게임만들기 AI 도움받은버전\0108 복습게임만들기 AI 도움받은버전\obj\Debug\0108 복습게임만들기 AI 도움받은버전.exe.config

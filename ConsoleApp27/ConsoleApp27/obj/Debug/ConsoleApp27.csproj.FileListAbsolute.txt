@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe.config
