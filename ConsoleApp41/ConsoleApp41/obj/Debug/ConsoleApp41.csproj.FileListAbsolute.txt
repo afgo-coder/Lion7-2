@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.exe.config

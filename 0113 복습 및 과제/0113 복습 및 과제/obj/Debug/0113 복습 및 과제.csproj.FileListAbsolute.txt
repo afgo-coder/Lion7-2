@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\bin\Debug\0113 복습 및 과제.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\bin\Debug\0113 복습 및 과제.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\bin\Debug\0113 복습 및 과제.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\obj\Debug\0113 복습 및 과제.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\obj\Debug\0113 복습 및 과제.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\obj\Debug\0113 복습 및 과제.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\obj\Debug\0113 복습 및 과제.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\0113 복습 및 과제\0113 복습 및 과제\obj\Debug\0113 복습 및 과제.exe.config

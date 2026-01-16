@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.exe.config

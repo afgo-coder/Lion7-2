@@ -1,0 +1,7 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp50\ConsoleApp50\bin\Debug\ConsoleApp50.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp50\ConsoleApp50\bin\Debug\ConsoleApp50.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp50\ConsoleApp50\bin\Debug\ConsoleApp50.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp50\ConsoleApp50\obj\Debug\ConsoleApp50.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp50\ConsoleApp50\obj\Debug\ConsoleApp50.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp50\ConsoleApp50\obj\Debug\ConsoleApp50.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp50\ConsoleApp50\obj\Debug\ConsoleApp50.pdb

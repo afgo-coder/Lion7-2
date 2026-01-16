@@ -1,0 +1,7 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp48\ConsoleApp48\bin\Debug\ConsoleApp48.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp48\ConsoleApp48\bin\Debug\ConsoleApp48.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp48\ConsoleApp48\bin\Debug\ConsoleApp48.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.pdb

@@ -1,0 +1,8 @@
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\bin\Debug\텍스트RPG.exe.config
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\bin\Debug\텍스트RPG.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\bin\Debug\텍스트RPG.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\obj\Debug\텍스트RPG.csproj.AssemblyReference.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\obj\Debug\텍스트RPG.csproj.CoreCompileInputs.cache
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\obj\Debug\텍스트RPG.exe
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\obj\Debug\텍스트RPG.pdb
+C:\Users\ko990\Documents\GitHub\Lion7-2\텍스트RPG\텍스트RPG\obj\Debug\텍스트RPG.exe.config
