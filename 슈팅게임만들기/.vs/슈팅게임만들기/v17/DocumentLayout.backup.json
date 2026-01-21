@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -30,12 +26,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\Program.cs",
               "RelativeDocumentMoniker": "\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\Program.cs",
-              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\Program.cs*",
-              "RelativeToolTip": "\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\Program.cs*",
-              "ViewState": "AgIAAFMBAAAAAAAAAAAmwGgBAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\Program.cs",
+              "RelativeToolTip": "\uC288\uD305\uAC8C\uC784\uB9CC\uB4E4\uAE30\\Program.cs",
+              "ViewState": "AgIAALMBAAAAAAAAAAAYwMMBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T00:38:08.232Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

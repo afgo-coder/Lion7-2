@@ -3,19 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|c:\\users\\ko990\\documents\\github\\lion7-2\\\uD14D\uC2A4\uD2B8rpg\\\uD14D\uC2A4\uD2B8rpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|c:\\users\\ko990\\documents\\github\\lion7-2\\\uD14D\uC2A4\uD2B8rpg\\\uD14D\uC2A4\uD2B8rpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8rpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|c:\\users\\ko990\\documents\\github\\lion7-2\\\uD14D\uC2A4\uD2B8rpg\\\uD14D\uC2A4\uD2B8rpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|c:\\users\\ko990\\documents\\github\\lion7-2\\\uD14D\uC2A4\uD2B8rpg\\\uD14D\uC2A4\uD2B8rpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8rpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,7 +15,15 @@
       "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|c:\\users\\ko990\\documents\\github\\lion7-2\\\uD14D\uC2A4\uD2B8rpg\\\uD14D\uC2A4\uD2B8rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8rpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8rpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EBD05F7-55BF-48FD-8515-29BC774647AB}|\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,65 +46,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Field.cs",
-              "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Field.cs",
-              "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\Field.cs",
-              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Field.cs",
-              "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\Field.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAIA3wEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:36:54.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainGame.cs",
-              "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
-              "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
-              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
-              "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA0wCUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:23:36.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
-              "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
-              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
-              "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:32:15.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Player.cs",
               "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\Player.cs",
               "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Player.cs",
               "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\Player.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T02:11:17.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Field.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\Field.cs",
+              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Field.cs",
+              "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:36:54.44Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
+              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
+              "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:23:36.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
+              "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
+              "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\Monster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:32:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Info.cs",
               "DocumentMoniker": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Info.cs",
               "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\Info.cs",
               "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Info.cs",
               "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\Info.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T02:12:44.576Z",
               "EditorCaption": ""
@@ -117,10 +115,9 @@
               "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\\Program.cs",
               "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\\uD14D\uC2A4\uD2B8RPG\\\uD14D\uC2A4\uD2B8RPG\\Program.cs",
               "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:05:05.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T02:05:05.948Z"
             }
           ]
         }

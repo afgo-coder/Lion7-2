@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#미니프로젝트(상자먹기 게임)", "C#미니프로젝트(상자먹기 게임)\C#미니프로젝트(상자먹기 게임).csproj", "{E8E6483E-50A7-4F4D-85F2-F2A42EF5A041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E6483E-50A7-4F4D-85F2-F2A42EF5A041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E6483E-50A7-4F4D-85F2-F2A42EF5A041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E6483E-50A7-4F4D-85F2-F2A42EF5A041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E6483E-50A7-4F4D-85F2-F2A42EF5A041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE74698E-08FD-48E7-9FBD-E769C030298F}
+	EndGlobalSection
+EndGlobal
