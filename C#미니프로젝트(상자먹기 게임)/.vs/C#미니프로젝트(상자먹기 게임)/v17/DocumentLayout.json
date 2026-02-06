@@ -18,11 +18,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "C#\uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8(\uC0C1\uC790\uBA39\uAE30 \uAC8C\uC784)\\Program.cs",
               "ToolTip": "C:\\Users\\ko990\\Documents\\GitHub\\Lion7-2\\C#\uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8(\uC0C1\uC790\uBA39\uAE30 \uAC8C\uC784)\\C#\uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8(\uC0C1\uC790\uBA39\uAE30 \uAC8C\uC784)\\Program.cs",
               "RelativeToolTip": "C#\uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8(\uC0C1\uC790\uBA39\uAE30 \uAC8C\uC784)\\Program.cs",
-              "ViewState": "AgIAAPcAAAAAAAAAAAA0wAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T04:44:55.287Z",
               "EditorCaption": ""
